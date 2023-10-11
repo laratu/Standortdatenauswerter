@@ -6,7 +6,7 @@ Der Standortdatenauswerter ermittelt persönliche Informationen, die aus reinen 
 
 
 
-[¹]: https://github.com/laratu/LocVal
+[1]: https://github.com/laratu/LocVal
 
 
 ## Projekt Starten
