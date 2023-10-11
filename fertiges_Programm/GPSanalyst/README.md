@@ -10,7 +10,8 @@ Der Standortdatenauswerter ermittelt persönliche Informationen, die aus reinen 
 
 
 ## Projekt Starten
-Laden Sie Ihre Standortaufzeichnungen als GPX Daten in den Ordner gpxData. Führen Sie dann die main.py aus
+Laden Sie Ihre Standortaufzeichnungen als GPX Daten in den Ordner gpxData. Führen Sie dann die main.py aus.
+Da keine leeren Ordner hochgeladen werden können müssen sie noch die Ordner 'data', 'csvdata' und 'gpxdata' anlegen.
 
 ## Output
 In dem Ordner Data finden Sie alle Ausgewerten Informationen als CSV Dateien. 
